@@ -1,10 +1,6 @@
 Lean Startup
 ------------
 
-*START-UP*: 
-
-A startup is a human institution designed to create a new product or service under conditions of extreme uncertainty
-
 Vision
 - Start
 - Define
@@ -24,11 +20,38 @@ Accelerate
  - Adapt
  - Innovate
  
-1. Start
+Vision
+========
+
+Chapter 1: Start
 - Startups need to have Vision==>Strategy==>Product
-Though small BML cycles, they tune the product, revisit the strategy, or fold if the vision is inaccurate. Or turn into another startup.
-2. Define
-- 
+It's like a launching a car - Having means of land-transport is your vision.
+A car is the product.
+Tuning the engine is example of tuning one of the 'engines of growth'.
+
+Continuously get feedback so tune and improve the engine. Similar to our everyday release activities.
+Deciding to launch a car and doing test drives is example of product strategy. What features to tune.
+Is decidedly different from launching a rocket. Feedback and controls and experiments are much harder to run.
+ - Let's build cars, not rockets. Get quick feedback on handling, and keep tuning the engines.
+
+*START-UP*: 
+------------
+" A startup is a human institution designed to create a new product or service under conditions of extreme uncertainty."
+
+Key Terms: 
+1. Human institution
+2. New Product or Service
+3. Condition of extreme uncertainty
+
+Those operating under above conditions are all 'entrepreneurs'. 
+
+Example of Snaptax:
+- Decide to launch a computer/phone based tax return.
+- Started only with handling California tax returns. Got 350,000 downloads in first week.
+- Was a small team that was allowed to operate independently inside Intuit.
+- Had turned the culture from one experiment every tax season to 500 experiments over course of 3 months pre-tax season.
+- Turned people from politicians (fight for that one feature) to actual entrepreneurs.
+
 
 
 - Who thinks this is AVC?
