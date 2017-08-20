@@ -65,7 +65,26 @@ Chapter 3: Measure
 
 Chapter 4: Experiment
 ---------------------
+Lean startup approach is like a scientific experiment. 
 
+* You have assumptions
+* Make a prediction (a hypothesis) based on those assumptions
+* Run and experiment to 
+* Measure the prediction and hence validate/invalidate the assumptions
+
+In lean startup, the idea is to run experiments and validate assumptions before you doing extensive building.
+
+Two important hypothesis to solve in any product. What is the:
+1. 	Value Hypothesis: What problem is being solved and is the product doing a good job of it.
+	A more detailed way to ask this question is:
+	i.	 Do customers recognize the problem you are trying to solve
+	ii.  If there was a solution, would they buy it
+	iii. Would they but it from us?
+	iv.  Can *we* build a solution for that problem?
+2. Growth Hypothesis: Once we have a customer, how are we going to spread it? How will *new* customers discover the product or service?
+
+Eg: Zappos, HP's volunteering program, Village Laundry Service, CFPB (Consumer Finance Protection Board)
+ 
 
 Application to SJC
 ------------------
