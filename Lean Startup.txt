@@ -24,6 +24,7 @@ Vision
 ========
 
 Chapter 1: Start
+----------------
 - Startups need to have Vision==>Strategy==>Product
 It's like a launching a car - Having means of land-transport is your vision.
 A car is the product.
@@ -34,8 +35,9 @@ Deciding to launch a car and doing test drives is example of product strategy. W
 Is decidedly different from launching a rocket. Feedback and controls and experiments are much harder to run.
  - Let's build cars, not rockets. Get quick feedback on handling, and keep tuning the engines.
 
+Chapter 2: Define
+-----------------
 *START-UP*: 
-------------
 " A startup is a human institution designed to create a new product or service under conditions of extreme uncertainty."
 
 Key Terms: 
