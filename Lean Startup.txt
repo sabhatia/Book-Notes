@@ -1,0 +1,45 @@
+Lean Startup
+------------
+
+*START-UP*: 
+
+A startup is a human institution designed to create a new product or service under conditions of extreme uncertainty
+
+Vision
+- Start
+- Define
+- Learn
+- Experiment
+
+Steer
+- Leap
+- Test
+- Measure
+- Pivot
+
+
+Accelerate
+ - Batch
+ - Grow
+ - Adapt
+ - Innovate
+ 
+1. Start
+- Startups need to have Vision==>Strategy==>Product
+Though small BML cycles, they tune the product, revisit the strategy, or fold if the vision is inaccurate. Or turn into another startup.
+2. Define
+- 
+
+
+- Who thinks this is AVC?
+- Who thinks this is Shadow-IT?
+- Who thinks this is Unified Proxy?
+- Build-Measure-Learn
+	- Building and engine
+	-- BML over and over to fine tune/optimize on execution
+	-- At some point you decide you're off and decide to Pivot on strategy
+	-- Perhaps at some point need to change the Vision(??) (need a new startup?)
+- Validated-Accounting
+- Scaling up
+- Turning doing a startup from an ART to science (BML)
+- Great examples of startups (loved the one about learning - instruction/group
