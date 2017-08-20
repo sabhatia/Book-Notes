@@ -54,8 +54,21 @@ Example of Snaptax:
 - Had turned the culture from one experiment every tax season to 500 experiments over course of 3 months pre-tax season.
 - Turned people from politicians (fight for that one feature) to actual entrepreneurs.
 
+Chapter 3: Measure
+-------------------
+- Most companies track 'vanity metrics' - Is the product on time, within budget and with quality?
+- First question is now 'How is it built', it's 'Whether should this be built?'
+- Rather than track milestone times, outstanding bugs, and budget, track 'validated' metrics.
+- What happens if the product is successful? Check customer downloads, revenue per customer.
+- Story of IMVU. What was the strategy? The pitfalls of wanting vanity metrics and *not* wanting to release
+- Realizing building the wrong product. How they pivoted (IM focused, to separate IM based strategy).
+
+Chapter 4: Experiment
+---------------------
 
 
+Application to SJC
+------------------
 - Who thinks this is AVC?
 - Who thinks this is Shadow-IT?
 - Who thinks this is Unified Proxy?
