@@ -75,7 +75,7 @@ Lean startup approach is like a scientific experiment.
 In lean startup, the idea is to run experiments and validate assumptions before you doing extensive building.
 
 Two important hypothesis to solve in any product. What is the:
-1. 	Value Hypothesis: What problem is being solved and is the product doing a good job of it.
+1. 	Value Hypothesis: What problem is being solved and is the product doing a good job of it? Is it delivering value to the customer who is using it?
 	A more detailed way to ask this question is:
 	i.	 Do customers recognize the problem you are trying to solve
 	ii.  If there was a solution, would they buy it
@@ -85,7 +85,39 @@ Two important hypothesis to solve in any product. What is the:
 
 Eg: Zappos, HP's volunteering program, Village Laundry Service, CFPB (Consumer Finance Protection Board)
  
+Steer
+=====
+Vision leads to steering. Need to go through the Build-Measure-Lean feedback loop multiple times to test assumptions and quickly tune the product.
 
+Chapter 5: Leap
+---------------
+Figure out the 'leap of faith' assumptions in the business plan. This is a key step that most miss. Eg: Facebook. Most think they can 'grow' like facebook by advertising. But the key is that facebook/hotmail grew without any advertising. Once folks used it, they wanted to tell others about it. Not by 'theater'.
+Another way to validate assumptions is by using Analogs/Antilogs. Eg: iPod: Walkman was the analog, Napster was the antilog. Didn't build iTunes that way.
+
+Also, keep in mind what are the key 
+* Value Hypothesis and 
+* Growth Hypothesis
+
+Value Hypothesis: Some companies maybe profitable in short-term, but burn out long term. Eg: Ponzi Schemes - no value.
+Others like amazon are not still profitable, but still providing lots of value.
+Best way to test validate leap of faith assumptions is Genchi Gembutsu (By Toyota) - which is "Go and see for yourself". Probably translates for us to 'Design Thinking'. Observe the customer's problem, don't just accept other's word for it. Eg: Toyota Minivan.
+
+Chapter 6: Test
+---------------
+Idea to test your assumptions as soon as possible with minimum waste. This is where MVP comes in - how do you quickly test your assumptions. Several examples:
+
+1. Groupon: Picked up coupons - created a PDF and emailed it to people. Just to see if the concept would stick.
+2. Box: Folks didn't understand they had a problem. And building it across different OSes was its value but take too much time. So just created a youtube video explaining how it'll work
+3. Food on the Table (Concierge Service): CEO and COO actually asking beta customers what they want, deliver it and get feedback of how was it.
+
+Quality in MVP: Don't get caught in the loop of adding too much quality. Your goal is usually to find out is it the right thing. Fixing all bugs can lead to more waste (for learning) and fatter MVP to add more features since timelines increase. Eg: IMVU's teleportation feature.
+This is not easy to achieve - specially if we have patent, or first mover issues. But solve-able. Don't solve everything - but commit to rapidly iterating and fixing.
+
+Chapter 7: Measure
+------------------
+
+Chapter 8: Pivot
+----------------
 Application to SJC
 ------------------
 - Who thinks this is AVC?
