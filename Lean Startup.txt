@@ -115,6 +115,20 @@ This is not easy to achieve - specially if we have patent, or first mover issues
 
 Chapter 7: Measure
 ------------------
+Like any experiment it's always important to:
+1. Establish the baseline
+2. Tune the performance for the numbers you are tracking (talk about the right numbers)
+3. If this yeilds results, great. If not, need to pivot.
+
+The same as above can be said for our MPS performance. We see a number or stat, and start worrying. First thing is to establish a baseline and a way of measuring numbers easily. Then we can get into 'optimizations'.
+
+Eg: Grockit - a company that was for learning. Had methods to 'Teach', 'Study Alone' and 'Group based Study'. Team was agile and doing product improvements based on founder's guidance. But revenues and subscription remained flat. Worse, it was hard to related which products and feature improvements were actually making a difference. The key was then, to do cohort analysis.
+Cohort analysis requires that we make a small improvement or improvements, and test it against a small subset. Say 100-200 users. Do this repeatedly to do, 'controlled' user-testing and gather results. If improvements don't yield results over time, we know something is a miss and strategy needs to change.
+
+Metrics needs to be:
+* Actionable: Need to trace cause-and-affect. That's why cohort analysis is important. Make a small change, see the difference.
+* Accessible: Ensure the key people have access to the data. Namely, the product development team.
+* Auditable: Need to be able to produce this data. There a lot of conversations where data is re-analyzed and conclusions challenged.
 
 Chapter 8: Pivot
 ----------------
