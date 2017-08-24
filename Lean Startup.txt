@@ -132,6 +132,87 @@ Metrics needs to be:
 
 Chapter 8: Pivot
 ----------------
+As mentioned earlier, sometimes the tuning doesn't work. In this case, it is important to pivot - with product managers, business managers in the meeting. Several examples:
+
+Votizen:
+* Started out as a intent to indulge in social causes. Voters would register, and then pick their social cause, able to invite others to participate.
+ -  After using some innovation accounting metrics of Registration, Activation, Retention, Referral they found Retention/Referral too low.
+ -  Post tuning, R+R was at 5% and 4%. Ended up in land of living -dead.
+* Did a zoom-in Pivot: Turned it into a social lobbying platform. Allow users, paid voters in the district to contact their representative over a cause.
+ - Same R+R metrics wnet up to 21% and 54%. Now started looking at revenues and still very minimal.
+* Did a customer-segment pivot: Rather that just users, pivoted to business customers. 
+ - Not very high revenue either. Though they showed intent, they didn't actually buy.
+* Did a platform pivot: (Not clearly understand): They started charging like ad-words. Find causes, and use it to message other voters on the site. Charging 20c/message.
+ - Now earning $150M/year.
+
+Each successive pivot took lesser time than the past. The time left for a startup is the number of pivots it can successfully do.
+
+Pivot issues:
+- First, avoid the use of vanity metrics.
+- Two, have a clear hypothesis. If its not clear what you assume and what you want, it won't be clear if you are failing or passing.
+- Third, Pivot requires courage and hard decisions to be made. People need to accept failure, accept what they learnt, and be clear on what the new pivot is going to be.
+
+Same story with WealthManagement: Created as an online game, pivoted to sell leaders to wealth fund managers, then pivoted to wealth fund managers to start small funds due to intial investment costs by their infrastructure.
+
+Various Pivots: Zoom-in/Zoom-out, Platform, engine of growth, channel/segment pivot etc.
+
+Section 3: Accelerate
+=====================
+
+Batch
+-----
+Develop in small batches and keep work in progress small.
+* Sealing envelopes
+* Developing cars and machines in WWII Japan. Didn't have the resources of capacity or US. Would produce a lot of one thing and then move. 
+* Japanese companies Made reconfiguring faster - so they only produced what was needed currently.
+* Had an 'andon' cord. Stop production so production doesn't stop.
+* Examples of Small Batches
+	- Military contracter designing X-Ray portable system for detecting mines
+	- School of One - Today you teach in large batches - yearly batches. School of one decides where you are in learning, how you learn (individual, instruction, groups) and tunes it to that. 
+		-- Any learning from one is applied across to the other and instantly available for others to try and learn.
+
+Pull - Don't push: Dont produce more than you need. Find out what you need and build along the line as much as you are asked.
+Apply it to Snack bar: Those that finish first should be ordered first. 
+In software use it to build a good BML cycle. What is the minimum number of customers we need to learn from? What is the experiment to be run to learn it? What is the smallest batch we can build to test that experiment?
+Alphabet energy
+
+Growth
+--------
+Engines of Growth: Paid, Viral or sticky.
+
+"New Customers come from action of Past Customers"
+
+1. Sticky: Attract and retain customers long-term. Mobile phone vs grocery aisle. Dont care what soda you buy.
+	- Check customer retention vs customer acquisition. EG: 61% vs 40 %
+2. Viral: Hotmail. Measured by Viral coefficient. Want it >= 1. DOn't usually charge customer directly.
+3. Paid: How much it pays to acquire the customer, vs how much the customer pays. 
+
+EG: Startup pivoted from being consumer targetted (Virally) to business (paid). cut the largest order, few 100 dollars. The NGO couldn't buy something this cheap. And startup didn't have sales team to 'roll' out the product.
+
+Adapt
+-------
+Stay nimble and the 5 Whys?
+* Adjust your process and performance based on current conditions.
+* At what point do you stop the process and do something more drastic? Very useful in retros - root-causing. Ask why five times.
+* Also don't boil the ocean - make 'proportional investments'. So harden important/error prone areas. Not everything.
+* Train while on the go - like by making new trainees commit. If they make too many mistakes, improve training or fail-safe tools.
+* Play 5 whys, don't play 5 blames.
+* Reasonably involved, so don't hold it for high volume issues. 
+
+Innovate
+---------
+Typically they do sustainable innovation. Need a clear path to do disruptive innovation.
+
+- Lot of the above are done by large organizations. Do small batch product research and development towards sustained innovation.
+- What you also need is to do disruptive innovation.
+	- Secure but Scarce resources
+	- Protection of the parent organization
+	- Rewards linked to Long term product growth 
+	- Sandbox to play in - protects both the product and the parent (parent because they know certain customers wont be touched)
+		-- Child because they have a small set of customers/batch to experiment with without retribution.
+	- Expand as it begins to disrupt.
+	- Move sustained innovation ==> sustanence/outsources and ==> to new innovation
+
 Application to SJC
 ------------------
 - Who thinks this is AVC?

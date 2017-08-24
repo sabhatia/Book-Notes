@@ -1,0 +1,9 @@
+3/15: Longevity Effort started
+4/12: Decided we will use locust.io
+4/15-5/10: Ran HTTP/HTTP-S tests to measure and calibrate perf.
+5/10-5/11: Ran Perf tests firedrill. Found the issue that we aren't working well.
+6/5: Had the test-cases specified to be run.
+6/5-8/24? One Excel sheet. No repeatability.
+
+
+===========
