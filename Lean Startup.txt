@@ -54,7 +54,7 @@ Example of Snaptax:
 - Had turned the culture from one experiment every tax season to 500 experiments over course of 3 months pre-tax season.
 - Turned people from politicians (fight for that one feature) to actual entrepreneurs.
 
-Chapter 3: Measure
+Chapter 3: Learn
 -------------------
 - Most companies track 'vanity metrics' - Is the product on time, within budget and with quality?
 - First question is now 'How is it built', it's 'Whether should this be built?'
