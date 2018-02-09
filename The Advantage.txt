@@ -7,3 +7,84 @@ What prevents execs and leadership from obtaining good health:
 1. Sophistication - It's not complicated, so too simple for some to pursue
 2. Adrenalin - Too caught up in day-to-day firefighting to be bothered
 3. Quantification - You can't put metrics around it (at least not yet), so hard for some to state whether they have achieved it or not.
+
+What is Organization Health:
+(Very Wishy-Washy): When it's leadership, strategy, execution and culture align together to deliver a common goal.
+
+Organizations needs to be have good *Strategy* and good *Health*.
+
+Strategy(Bad Term): Engineering, Marketing, Finance, HR (Structure)
+Health: Culture, Moral, Productivity and Minimal Politics
+
+Structure/Parts is just the table-stakes. Health is what differentiates whether or not you are going to be successful. Health is what allows org to function as a collective unit and what allows it to fix something when it detects is not working.
+
+Why do organizations not spend more time cultivating health? Not taught much in academia, or reported as high-flying in journals. 
+
+How to build Organizational Health:
+
+1. Cohesive Team
+2. Create Clarity
+3. Communicate Clarity
+4. Re-enforce Clarity
+
+1. Cohesive Team. 
+
+What is it: A group of individuals collectively responsible for achieving a common goal/objective for the organization.
+
+Collectively Responsible:
+	- Ofcourse offer resources and budgets to others (hard to do), but obvious
+	- Also devote time and energy to other's goals, not just their own.
+	Eg: How do we handle SWG? How do we handle AVC? What's blocking us?
+	
+Common Goal:
+	- Obvious. Failure of a project is failure of entire team to come together. Not just that person in charge.
+	- 
+	
+Elements of a cohesive team:
+	A. Trust
+	B. Conflict
+	C. Commitment
+	D. Accountability
+	E. Results
+	
+1.A: Building Trust
+	What it isn't? Not that someone will do something they say.
+	What it is? Ability to be able to go into a meeting, have the safety net to say, "I messed up", or "I need help" or "I'm sorry". And trust that the team will help you succeed or learn or both.
+	
+	- Vulnerability: Leader goes first
+	- Profiling: Myers-Briggs or Team-Space
+	- Attribution: Try to understand, than be understood.
+	
+1.B. Mastering Conflict
+	- Be ready for Discomfort
+	- Beware of Conflict Avoidance
+	- Set Rules of Engagement
+		- Silence means *DIS-Agreement*. Have to voice an opinion.
+		- Verbal Commitment from everyone. If you can't commit, we can't accomplish 'collectively'.
+	- Conflict Continum
+		<---Avoidance/False Harmony---------|Optimum|--------Personal Attacks--->
+		
+1.C Achieving Commitment
+	Conflict supremely important - "If people can't weigh in, they can't buy in".
+	- Don't decide by consensus. Too late. 'Disagree and Commit' is fine.
+	- Disagreement tells us what to watch out for. What the 'pivot' points might be. Much better than passive agreement - where members nods but then don't do anything or provide any watch points. The result is that the first or forseen failure, the "I told you so's", come out.
+	- Lastly, always walk out of a meeting with clear alignment and decisions. Make agreements so this is clear everyone is on point. Perhaps ask them to present to their teams. If you have to defend, they will want to know what happened and why the agreed.
+
+1.D Accountability
+	- Peer pressure: From the playground to to corporation, still the best way to learn.
+	-- Rather than boss, peers holding accountable is much more effective. Used as learning vs punishment.
+	- Boss cannot be 'Wuss'. If she is, her team will see it as:
+		a. Poor performance is tolerated
+		b. If the leader cannot hold someone accountable, then what's the point of me doing it.
+		Au contraire, the more willing you are to hold individuals accountable, the less likely you are to do it. But build it with trust, not with personal attacks/conflicts.
+	- Offsite Exercise: Write one good thing and one improvement trait for everyone in the room. Go around and discuss it.
+	- Public vs Private: Argues for public accountability.
+		- One: Everyone learns from the first person's mistakes.
+		- Two: Even if leader is holding them to a standard, others wonder if you are holding folks accountable.
+		- Three: It set that we are ok with holding each other accountable, and that re-inforces within the team that this is ok.
+		
+1.E Results
+	- 
+	- 
+	- 
+	-	
