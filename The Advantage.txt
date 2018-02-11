@@ -32,7 +32,7 @@ How to build Organizational Health:
 What is it: A group of individuals collectively responsible for achieving a common goal/objective for the organization.
 
 Collectively Responsible:
-	- Ofcourse offer resources and budgets to others (hard to do), but obvious
+	- Of course offer resources and budgets to others (hard to do), but obvious
 	- Also devote time and energy to other's goals, not just their own.
 	Eg: How do we handle SWG? How do we handle AVC? What's blocking us?
 	
@@ -56,6 +56,7 @@ Elements of a cohesive team:
 	- Attribution: Try to understand, than be understood.
 	
 1.B. Mastering Conflict
+	- Why do we want it? To guard against Passive Resistance.
 	- Be ready for Discomfort
 	- Beware of Conflict Avoidance
 	- Set Rules of Engagement
@@ -67,7 +68,7 @@ Elements of a cohesive team:
 1.C Achieving Commitment
 	Conflict supremely important - "If people can't weigh in, they can't buy in".
 	- Don't decide by consensus. Too late. 'Disagree and Commit' is fine.
-	- Disagreement tells us what to watch out for. What the 'pivot' points might be. Much better than passive agreement - where members nods but then don't do anything or provide any watch points. The result is that the first or forseen failure, the "I told you so's", come out.
+	- Disagreement tells us what to watch out for. What the 'pivot' points might be. Much better than passive agreement - where members nods but then don't do anything or provide any watch points. The result is that the first or foreseen failure, the "I told you so"s, come out.
 	- Lastly, always walk out of a meeting with clear alignment and decisions. Make agreements so this is clear everyone is on point. Perhaps ask them to present to their teams. If you have to defend, they will want to know what happened and why the agreed.
 
 1.D Accountability
