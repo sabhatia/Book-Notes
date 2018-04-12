@@ -1,6 +1,8 @@
 The Advantage
 =============
-Organizational Health:
+
+Introduction: Organizational Health
+================================
 
 What prevents execs and leadership from obtaining good health:
 
@@ -27,7 +29,8 @@ How to build Organizational Health:
 3. Communicate Clarity
 4. Re-enforce Clarity
 
-1. Cohesive Team. 
+Chapter 1: Cohesive Team
+========================
 
 What is it: A group of individuals collectively responsible for achieving a common goal/objective for the organization.
 
@@ -89,3 +92,17 @@ Elements of a cohesive team:
 	- Results are not financial, it's was the team defines as measures of success.
 	- There need to be team goals - goals that we are collectively sharing and owning.
 	- And always remember Team One. Team that you are a member of, not the one you own.	
+	
+Chapter 2: Creating Clarity
+===========================
+1. Why do we exist?
+2. How do we behave?
+3. What we do? (Simple)
+4. How will we succeed (Strategy)
+5. What is most important right now (Tactical/Execution)
+6. Who is doing what? 
+
+2.1: 
+
+Chapter 3: Communicate Clarity
+==============================
