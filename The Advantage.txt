@@ -18,30 +18,30 @@ Organizations needs to be have good *Strategy* and good *Health*.
 Strategy(Bad Term): Engineering, Marketing, Finance, HR (Structure)
 Health: Culture, Moral, Productivity and Minimal Politics
 
-Structure/Parts is just the table-stakes. Health is what differentiates whether or not you are going to be successful. Health is what allows org to function as a collective unit and what allows it to fix something when it detects is not working.
+Structure/Parts is just the table-stakes. Health is what differentiates whether or not you are going to be successful. Health is what allows org to function as a collective unit and what allows it to fix something when it detects is not working. 
+	- I think of this as preparing for a marathon. Sure there is strength, muscle and techique involved. But be able to run it, you have to have great overall health - the parts functioning together. So things that don't, you isolate and you fix and you run farther and farther.
 
 Why do organizations not spend more time cultivating health? Not taught much in academia, or reported as high-flying in journals. 
 
 How to build Organizational Health:
 
-1. Cohesive Team
-2. Create Clarity
-3. Communicate Clarity
-4. Re-enforce Clarity
+1. Cohesive Team: Building a high performing team that can execute
+2. Create Clarity: Defining the Vision, the Strategy and the Culture
+3. Communicate Clarity: Communicating the Vision and the Strategy
+4. Re-enforce Clarity: Re-enforcing the culture and behaviors
 
 Chapter 1: Cohesive Team
 ========================
 
-What is it: A group of individuals collectively responsible for achieving a common goal/objective for the organization.
+What is it: A small group of individuals collectively responsible for achieving a common goal/objective for the organization.
 
 Collectively Responsible:
 	- Of course offer resources and budgets to others (hard to do), but obvious
 	- Also devote time and energy to other's goals, not just their own.
-	Eg: How do we handle SWG? How do we handle AVC? What's blocking us?
 	
 Common Goal:
 	- Obvious. Failure of a project is failure of entire team to come together. Not just that person in charge.
-	- 
+	- Hear most leaders say: So what if I scored a Triple Double. We lost! Won't say, "I did my job". 
 	
 Elements of a cohesive team:
 	A. Trust
